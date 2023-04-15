@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cordon Blue | Odin Recipes</title>
+</head>
+<body>
+    <h1>Cordon Bleu</h1>
+    <img src="images/cordonBleu.webp" alt="Plated Cordon bleu">
+    <h4>Cordon Bleu Photo by Danielle K.</h4>
+    <p>Experience a burst of flavour unto your tastebuds, with simple ingredients, you will be able to make a delicious and tasty meal.</p>
+
+    <h2>Ingredients</h2>
+    <ul>
+        <li>Chicken</li>
+        <li>Cheeses</li>
+        <li>Oil</li>
+        <li>Breading</li>
+    </ul>
+
+    <h2>Steps</h2>
+    <ol>
+        <li>Prep the Chicken. Pound the chicken to create a thin, even pieces.<br>Thoroughly season the chicken with salt and pepper.</li>
+        <li>Assemble and Roll. Top each piece of chicken with one slice of your selected cheese and one piece of ham.<br> roll the chicken vertically so that the ham and cheese are contained.</li>
+        <li>Bread and Bake. Arrange the chicken in a prepared baking dish. Springle liberally and evenly with breadcrumbs, bake until the cheken is no longer pink, top each roll with a half slice of cheese, and continue baking until melted.</li>
+    </ol>
+</body>
+</html>
