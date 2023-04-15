@@ -1,4 +1,5 @@
 # index.html
+<p align="left"> <img src=https://github.com/salihabrik/animated-profile-card#animated-profile-card
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,21 +12,21 @@
 <body>
     <div class="card">
         <div class="imgBx">
-          <img src="img/Charles Obimnaeto Egesionu.jpg"/>
+          <img src=""/>
         </div>
         <div class="content">
           <div class="details">
-            <h2>Charles Obimnaeto Egesionu<br /><span>Frontend Developer</span></h2>
+            <h2>salihabrik<br /><span>Frontend Developer</span></h2>
             <div class="data">
               <h3>26<br /><span>Posts</span></h3>
               <h3>2,106<br /><span>Followers</span></h3>
               <h3>90<br /><span>Following</span></h3>
             </div>
             <div class="actionBtn">
-              <a href="https://twitter.com/naetocharlie/" target="_blank">Follow</a>
+              <a href="https://twitter.com/SaLi46427585?" target="_blank">Follow</a>
               <a href="https://wa.me/2348178200220" target="_blank">Message</a>
             </div>
-          </div>
+          </div>https://twitter.com/SaLi46427585?
         </div>
       </div>
 </body>
