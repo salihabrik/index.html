@@ -24,9 +24,9 @@
             </div>
             <div class="actionBtn">
               <a href="https://twitter.com/SaLi46427585?" target="_blank">Follow</a>
-              <a href="https://wa.me/2348178200220" target="_blank">Message</a>
+              <a href="http://linkedin.com/in/salihabrik" target="_blank">connect</a>
             </div>
-          </div>https://twitter.com/SaLi46427585?
+          </div>
         </div>
       </div>
 </body>
